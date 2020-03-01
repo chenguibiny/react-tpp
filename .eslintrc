@@ -1,0 +1,7 @@
+{
+    "extends":"react-app",
+    "rules":{
+        // 行尾不使用;,就会报错
+        "semi":"error"
+    }
+}
